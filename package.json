@@ -16,7 +16,7 @@
     "easing"
   ],
   "dependencies": {
-    "rx": "*",
+    "rxjs": "graphistry/RxJS-v5",
     "rx-dom": "*"
   },
   "author": "Paul Taylor <paul.e.taylor@me.com>",
